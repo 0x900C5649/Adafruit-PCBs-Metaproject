@@ -1,0 +1,91 @@
+i = 2
+para = {'q': 'adafruit+PCB+user:Adafruit', 'page':1, 'per_page':100}
+baseurl = 'https://api.github.com/search/repositories'
+while(1):
+    r = requests.get(baseurl, params=para, headers=header)
+    if r.status_code != 200:
+        print("problem")
+        break
+    j = r.json()
+    for i in j['items']:
+        repos.append((i['name'], i['full_name'], i['clone_url']))
+    
+    if int(r.headers['X-Ratelimit-Remaining']) == 0:
+        waitfor = int((datetime.fromtimestamp(1594110393) - datetime.now()).total_seconds()) + 1
+        if(waitfor > 0):
+            time.sleep(waitfor)
+
+    if len(repos) < j['total_count']:
+        para['page'] = para['page']+1
+    else:
+        break
+        
+    
+header = {'Accept': 'application/json'}
+repos = [] 
+para = {'q': 'adafruit+PCB+user:Adafruit', 'page':1, 'per_page':100} 
+baseurl = 'https://api.github.com/search/repositories' 
+while(1): 
+    r = requests.get(baseurl, params=para, headers=header) 
+    if r.status_code != 200: 
+        print("problem") 
+        break 
+    j = r.json() 
+    for i in j['items']: 
+        repos.append((i['name'], i['full_name'], i['clone_url'])) 
+     
+    if int(r.headers['X-Ratelimit-Remaining']) == 0: 
+        waitfor = int((datetime.fromtimestamp(int(r.headers['X-Ratelimit-Reset'])) - datetime.now()).total_seconds()) + 1 
+        if(waitfor > 0): 
+            time.sleep(waitfor) 
+ 
+    if len(repos) < j['total_count']: 
+        para['page'] = para['page']+1 
+    else: 
+        break
+        
+    
+gitbaseurl = '../../'
+crepos = []
+for (name,full_name,url) in repos:
+    cname = name
+    if(cname.startswith('Adafruit-PCB-')):
+        cname = cname.replace('Adafruit-PCB-','',1)
+    if(cname.startswith('Adafruit_PCB_')):
+        cname = cname.replace('Adafruit_PCB_','',1)
+    if(cname.startswith('Adafruit-')):
+        cname = cname.replace('Adafruit-','',1)
+    if(cname.startswith('Adafruit_')):
+        cname = cname.replace('Adafruit_','',1)
+    cname = cname[::-1]
+    if(cname.startswith('-PCB'[::-1])):
+        cname = cname.replace('-PCB'[::-1],'',1)
+    if(cname.startswith('-PCBs'[::-1])):
+        cname = cname.replace('-PCBs'[::-1],'',1)
+    if(cname.startswith('_PCB'[::-1])):
+        cname = cname.replace('_PCB'[::-1],'',1)
+    if(cname.startswith('_PCBs'[::-1])):
+        cname = cname.replace('_PCBs'[::-1],'',1)
+    cname = cname[::-1]
+    moduleurl = gitbaseurl + full_name + '.git'
+    crepos.append((cname, moduleurl))
+
+
+template = '''
+[submodule "{n}"]
+        path = {n}
+        url = {u}
+'''
+gitmodulestr = ''
+for (name, url) in crepos:
+    gitmodulestr += template.format(n = name, u=url)
+
+print(gitmodulestr)
+
+
+for (name,url) in crepos: 
+    process = subprocess.Popen(['git', 'submodule', 'add', url,name], stdout=subprocess.PIPE) 
+    print(process.communicate()[0])
+
+    
+Adafruit-CCS811-Breakout-PCB', 'adafruit/Adafruit-CCS811-Breakout-PCB
