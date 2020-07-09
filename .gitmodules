@@ -1,0 +1,1113 @@
+[submodule "src/Ruler"]
+	path = src/Ruler
+	url = ../../adafruit/Adafruit-PCB-Ruler.git
+[submodule "src/DS1307-breakout-board"]
+	path = src/DS1307-breakout-board
+	url = ../../adafruit/DS1307-breakout-board.git
+[submodule "src/SMT-Breakout"]
+	path = src/SMT-Breakout
+	url = ../../adafruit/Adafruit-SMT-Breakout-PCBs.git
+[submodule "src/METRO-328"]
+	path = src/METRO-328
+	url = ../../adafruit/Adafruit-METRO-328-PCB.git
+[submodule "src/ADS1X15-Breakout-Board"]
+	path = src/ADS1X15-Breakout-Board
+	url = ../../adafruit/ADS1X15-Breakout-Board-PCBs.git
+[submodule "src/NeoPixel-Ring"]
+	path = src/NeoPixel-Ring
+	url = ../../adafruit/Adafruit-NeoPixel-Ring.git
+[submodule "src/Huzzah-ESP8266-Basic-Breakout"]
+	path = src/Huzzah-ESP8266-Basic-Breakout
+	url = ../../adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB.git
+[submodule "src/RGB-LCD-shield"]
+	path = src/RGB-LCD-shield
+	url = ../../adafruit/Adafruit-RGB-LCD-shield-PCB.git
+[submodule "src/FTDI-Friend"]
+	path = src/FTDI-Friend
+	url = ../../adafruit/Adafruit_FTDI-Friend-PCB.git
+[submodule "src/PowerBoost-1000C"]
+	path = src/PowerBoost-1000C
+	url = ../../adafruit/Adafruit-PowerBoost-1000C.git
+[submodule "src/nRF52-Bluefruit-Feather"]
+	path = src/nRF52-Bluefruit-Feather
+	url = ../../adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB.git
+[submodule "src/MintyBoost"]
+	path = src/MintyBoost
+	url = ../../adafruit/Adafruit_MintyBoost_PCB.git
+[submodule "src/16-Channel-PWM-Servo-Driver"]
+	path = src/16-Channel-PWM-Servo-Driver
+	url = ../../adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB.git
+[submodule "src/Trinket"]
+	path = src/Trinket
+	url = ../../adafruit/Adafruit-Trinket-PCB.git
+[submodule "src/Feather-ESP8266-HUZZAH"]
+	path = src/Feather-ESP8266-HUZZAH
+	url = ../../adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB.git
+[submodule "src/HUZZAH32-ESP32-Feather"]
+	path = src/HUZZAH32-ESP32-Feather
+	url = ../../adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB.git
+[submodule "src/Trellis"]
+	path = src/Trellis
+	url = ../../adafruit/Adafruit_Trellis.git
+[submodule "src/CC3000-Breakout"]
+	path = src/CC3000-Breakout
+	url = ../../adafruit/Adafruit-CC3000-Breakout-PCB.git
+[submodule "src/MCP73833"]
+	path = src/MCP73833
+	url = ../../adafruit/Adafruit_MCP73833_PCB.git
+[submodule "src/Pro-Trinket"]
+	path = src/Pro-Trinket
+	url = ../../adafruit/Adafruit-Pro-Trinket-PCBs.git
+[submodule "src/Proto-Shield"]
+	path = src/Proto-Shield
+	url = ../../adafruit/Adafruit-Proto-Shield-PCB.git
+[submodule "src/Prototyping-Pi-Plate"]
+	path = src/Prototyping-Pi-Plate
+	url = ../../adafruit/Adafruit-Prototyping-Pi-Plate-PCB.git
+[submodule "src/LED-Backpacks"]
+	path = src/LED-Backpacks
+	url = ../../adafruit/Adafruit-LED-Backpacks.git
+[submodule "src/128x64-Monochrome-OLED"]
+	path = src/128x64-Monochrome-OLED
+	url = ../../adafruit/Adafruit-128x64-Monochrome-OLED-PCB.git
+[submodule "src/Feather-M0-Basic-Proto"]
+	path = src/Feather-M0-Basic-Proto
+	url = ../../adafruit/Adafruit-Feather-M0-Basic-Proto-PCB.git
+[submodule "src/USB_Boarduino"]
+	path = src/USB_Boarduino
+	url = ../../adafruit/Adafruit_USB_Boarduino_PCB.git
+[submodule "src/INA219-Current-Sensor"]
+	path = src/INA219-Current-Sensor
+	url = ../../adafruit/Adafruit-INA219-Current-Sensor-PCB.git
+[submodule "src/NeoPixel-Sticks"]
+	path = src/NeoPixel-Sticks
+	url = ../../adafruit/NeoPixel-Sticks.git
+[submodule "src/Perma-Proto-HAT"]
+	path = src/Perma-Proto-HAT
+	url = ../../adafruit/Adafruit-Perma-Proto-HAT-PCB.git
+[submodule "src/VCNL40X0"]
+	path = src/VCNL40X0
+	url = ../../adafruit/Adafruit-VCNL40X0-PCB.git
+[submodule "src/BeagleBone-ProtoBoard"]
+	path = src/BeagleBone-ProtoBoard
+	url = ../../adafruit/Adafruit-BeagleBone-ProtoBoard-PCB.git
+[submodule "src/BNO055-Breakout"]
+	path = src/BNO055-Breakout
+	url = ../../adafruit/Adafruit-BNO055-Breakout-PCB.git
+[submodule "src/TSL2561-breakout-board"]
+	path = src/TSL2561-breakout-board
+	url = ../../adafruit/TSL2561-breakout-board-PCB.git
+[submodule "src/FONA-800-GSM-Breakout"]
+	path = src/FONA-800-GSM-Breakout
+	url = ../../adafruit/Adafruit-FONA-800-GSM-Breakout-PCB.git
+[submodule "src/PowerBoost-500-Charger"]
+	path = src/PowerBoost-500-Charger
+	url = ../../adafruit/Adafruit-PowerBoost-500-Charger-PCB.git
+[submodule "src/MicroLipo"]
+	path = src/MicroLipo
+	url = ../../adafruit/Adafruit-MicroLipo-PCB.git
+[submodule "src/Feather-32u4-Bluefruit-LE"]
+	path = src/Feather-32u4-Bluefruit-LE
+	url = ../../adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB.git
+[submodule "src/FT232H-Breakout"]
+	path = src/FT232H-Breakout
+	url = ../../adafruit/Adafruit-FT232H-Breakout-PCB.git
+[submodule "src/I2C-SPI-LCD-Backpack"]
+	path = src/I2C-SPI-LCD-Backpack
+	url = ../../adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB.git
+[submodule "src/Bluefruit-LE-nRF8001"]
+	path = src/Bluefruit-LE-nRF8001
+	url = ../../adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB.git
+[submodule "src/DC-Stepper-Motor-HAT"]
+	path = src/DC-Stepper-Motor-HAT
+	url = ../../adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB.git
+[submodule "src/FONA-SIMCOM-3G-Breakout"]
+	path = src/FONA-SIMCOM-3G-Breakout
+	url = ../../adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB.git
+[submodule "src/4-Channel-Level-Shifter"]
+	path = src/4-Channel-Level-Shifter
+	url = ../../adafruit/4-Channel-Level-Shifter-PCB.git
+[submodule "src/NeoPixel-8x8-Matrix"]
+	path = src/NeoPixel-8x8-Matrix
+	url = ../../adafruit/Adafruit-NeoPixel-8x8-Matrix.git
+[submodule "src/TXB0108"]
+	path = src/TXB0108
+	url = ../../adafruit/Adafruit-TXB0108-PCB.git
+[submodule "src/128x32-SPI-OLED-breakout-board"]
+	path = src/128x32-SPI-OLED-breakout-board
+	url = ../../adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB.git
+[submodule "src/Joy-Bonnet"]
+	path = src/Joy-Bonnet
+	url = ../../adafruit/Adafruit-Joy-Bonnet-PCB.git
+[submodule "src/Feather-32u4-FONA"]
+	path = src/Feather-32u4-FONA
+	url = ../../adafruit/Adafruit-Feather-32u4-FONA-PCB.git
+[submodule "src/VS1053-Breakout"]
+	path = src/VS1053-Breakout
+	url = ../../adafruit/Adafruit-VS1053-Breakout-PCB.git
+[submodule "src/2.8_Inch_TFT_Shield"]
+	path = src/2.8_Inch_TFT_Shield
+	url = ../../adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB.git
+[submodule "src/128x32-I2C-OLED-Breakout"]
+	path = src/128x32-I2C-OLED-Breakout
+	url = ../../adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB.git
+[submodule "src/Feather-M0-Express"]
+	path = src/Feather-M0-Express
+	url = ../../adafruit/Adafruit-Feather-M0-Express-PCB.git
+[submodule "src/INA169-Breakout"]
+	path = src/INA169-Breakout
+	url = ../../adafruit/Adafruit-INA169-Breakout-PCB.git
+[submodule "src/ADXL345"]
+	path = src/ADXL345
+	url = ../../adafruit/Adafruit_ADXL345_PCB.git
+[submodule "src/2.8-TFT-with-Capacitive-Touch"]
+	path = src/2.8-TFT-with-Capacitive-Touch
+	url = ../../adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB.git
+[submodule "src/USB-Isolator"]
+	path = src/USB-Isolator
+	url = ../../adafruit/Adafruit-USB-Isolator-PCB.git
+[submodule "src/RFM-LoRa-Radio-Breakout"]
+	path = src/RFM-LoRa-Radio-Breakout
+	url = ../../adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB.git
+[submodule "src/TFP401-HDMI-To-40Pin-TFT"]
+	path = src/TFP401-HDMI-To-40Pin-TFT
+	url = ../../adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB.git
+[submodule "src/TPA2016"]
+	path = src/TPA2016
+	url = ../../adafruit/Adafruit-TPA2016-PCB.git
+[submodule "src/MAX4466-Electret-Mic-Amplifier"]
+	path = src/MAX4466-Electret-Mic-Amplifier
+	url = ../../adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs.git
+[submodule "src/MAX9744-Amplifier"]
+	path = src/MAX9744-Amplifier
+	url = ../../adafruit/Adafruit-MAX9744-Amplifier-PCB.git
+[submodule "src/Flora-Mainboard"]
+	path = src/Flora-Mainboard
+	url = ../../adafruit/Adafruit-Flora-Mainboard.git
+[submodule "src/FONA-808-Breakout"]
+	path = src/FONA-808-Breakout
+	url = ../../adafruit/Adafruit-FONA-808-Breakout-PCB.git
+[submodule "src/DPI-Kippah"]
+	path = src/DPI-Kippah
+	url = ../../adafruit/Adafruit-DPI-Kippah-PCB.git
+[submodule "src/Feather-32u4-RFM-LoRa"]
+	path = src/Feather-32u4-RFM-LoRa
+	url = ../../adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB.git
+[submodule "src/1.3inch-128x64-Mono-OLED"]
+	path = src/1.3inch-128x64-Mono-OLED
+	url = ../../adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB.git
+[submodule "src/PAM8302-Mono-Amplifier"]
+	path = src/PAM8302-Mono-Amplifier
+	url = ../../adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB.git
+[submodule "src/CP2104-Friend"]
+	path = src/CP2104-Friend
+	url = ../../adafruit/Adafruit-CP2104-Friend-PCB.git
+[submodule "src/Motor-Shield-V2"]
+	path = src/Motor-Shield-V2
+	url = ../../adafruit/Adafruit-Motor-Shield-V2-PCB.git
+[submodule "src/BME680"]
+	path = src/BME680
+	url = ../../adafruit/Adafruit-BME680-PCB.git
+[submodule "src/Flora-Ultimate-GPS"]
+	path = src/Flora-Ultimate-GPS
+	url = ../../adafruit/Adafruit-Flora-Ultimate-GPS.git
+[submodule "src/RA8875-Breakout-Board"]
+	path = src/RA8875-Breakout-Board
+	url = ../../adafruit/Adafruit-RA8875-Breakout-Board-PCB.git
+[submodule "src/Breadboard_NeoPixel"]
+	path = src/Breadboard_NeoPixel
+	url = ../../adafruit/Adafruit_Breadboard_NeoPixel_PCB.git
+[submodule "src/Bluefruit-LE-SPI-Friend"]
+	path = src/Bluefruit-LE-SPI-Friend
+	url = ../../adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB.git
+[submodule "src/LSM303"]
+	path = src/LSM303
+	url = ../../adafruit/Adafruit-LSM303-PCB.git
+[submodule "src/2.8-TFT-Breakout"]
+	path = src/2.8-TFT-Breakout
+	url = ../../adafruit/2.8-TFT-Breakout-PCB.git
+[submodule "src/1.8-TFT-Shield"]
+	path = src/1.8-TFT-Shield
+	url = ../../adafruit/Adafruit-1.8-TFT-Shield-PCB.git
+[submodule "src/Perma-Proto-Bonnet"]
+	path = src/Perma-Proto-Bonnet
+	url = ../../adafruit/Adafruit-Perma-Proto-Bonnet-PCB.git
+[submodule "src/Feather-M0-RFM-LoRa"]
+	path = src/Feather-M0-RFM-LoRa
+	url = ../../adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB.git
+[submodule "src/Trinket-M0"]
+	path = src/Trinket-M0
+	url = ../../adafruit/Adafruit-Trinket-M0-PCB.git
+[submodule "src/Menta"]
+	path = src/Menta
+	url = ../../adafruit/Adafruit-Menta-PCB.git
+[submodule "src/PowerBoost-500-Basic"]
+	path = src/PowerBoost-500-Basic
+	url = ../../adafruit/Adafruit-PowerBoost-500-Basic-PCB.git
+[submodule "src/ItsyBitsy-M0"]
+	path = src/ItsyBitsy-M0
+	url = ../../adafruit/Adafruit-ItsyBitsy-M0-PCB.git
+[submodule "src/Analog-Accelerometers"]
+	path = src/Analog-Accelerometers
+	url = ../../adafruit/Adafruit-Analog-Accelerometers-PCBs.git
+[submodule "src/AD8495-Breakout"]
+	path = src/AD8495-Breakout
+	url = ../../adafruit/Adafruit-AD8495-Breakout-PCB.git
+[submodule "src/VL53L0X-ToF-Distance-Sensor"]
+	path = src/VL53L0X-ToF-Distance-Sensor
+	url = ../../adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB.git
+[submodule "src/Metro-M4-Express"]
+	path = src/Metro-M4-Express
+	url = ../../adafruit/Adafruit-Metro-M4-Express-PCB.git
+[submodule "src/96x64-RGB-OLED-Breakout"]
+	path = src/96x64-RGB-OLED-Breakout
+	url = ../../adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB.git
+[submodule "src/TLC5947"]
+	path = src/TLC5947
+	url = ../../adafruit/Adafruit-TLC5947-PCB.git
+[submodule "src/1.5inch-Color-OLED"]
+	path = src/1.5inch-Color-OLED
+	url = ../../adafruit/Adafruit-1.5inch-Color-OLED-PCB.git
+[submodule "src/FeatherWing-Proto-Doubler-Tripler-and-Quad"]
+	path = src/FeatherWing-Proto-Doubler-Tripler-and-Quad
+	url = ../../adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad.git
+[submodule "src/Feather-M0-WiFi-WINC1500"]
+	path = src/Feather-M0-WiFi-WINC1500
+	url = ../../adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB.git
+[submodule "src/USB-LiIon-LiPoly-Charger"]
+	path = src/USB-LiIon-LiPoly-Charger
+	url = ../../adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB.git
+[submodule "src/BMP180"]
+	path = src/BMP180
+	url = ../../adafruit/Adafruit-BMP180-PCB.git
+[submodule "src/Perma-Proto"]
+	path = src/Perma-Proto
+	url = ../../adafruit/Adafruit-Perma-Proto-PCB.git
+[submodule "src/Animated-Eyes-Bonnet"]
+	path = src/Animated-Eyes-Bonnet
+	url = ../../adafruit/Adafruit-Animated-Eyes-Bonnet-PCB.git
+[submodule "src/Flora-Smart-NeoPixel"]
+	path = src/Flora-Smart-NeoPixel
+	url = ../../adafruit/Adafruit-Flora-Smart-NeoPixel.git
+[submodule "src/PiGRRL"]
+	path = src/PiGRRL
+	url = ../../adafruit/Adafruit-PiGRRL-PCB.git
+[submodule "src/NeoPixel-Shield"]
+	path = src/NeoPixel-Shield
+	url = ../../adafruit/Adafruit-NeoPixel-Shield-PCB.git
+[submodule "src/9-DOF-and-10-DOF"]
+	path = src/9-DOF-and-10-DOF
+	url = ../../adafruit/Adafruit-9-DOF-and-10-DOF-PCBs.git
+[submodule "src/Feather-M4-Express"]
+	path = src/Feather-M4-Express
+	url = ../../adafruit/Adafruit-Feather-M4-Express-PCB.git
+[submodule "src/DS3231-Precision-RTC-Breakout"]
+	path = src/DS3231-Precision-RTC-Breakout
+	url = ../../adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB.git
+[submodule "src/NeoTrellis-4x4"]
+	path = src/NeoTrellis-4x4
+	url = ../../adafruit/Adafruit-NeoTrellis-4x4-PCB.git
+[submodule "src/Pi-Cobber"]
+	path = src/Pi-Cobber
+	url = ../../adafruit/Adafruit-Pi-Cobber-PCBs.git
+[submodule "src/40-pin-TFT-Friend"]
+	path = src/40-pin-TFT-Friend
+	url = ../../adafruit/Adafruit-40-pin-TFT-Friend.git
+[submodule "src/IS31FL3731-CharliePlex-LED-Breakout"]
+	path = src/IS31FL3731-CharliePlex-LED-Breakout
+	url = ../../adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB.git
+[submodule "src/DRV8833-Motor-Driver-Breakout"]
+	path = src/DRV8833-Motor-Driver-Breakout
+	url = ../../adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB.git
+[submodule "src/Feather-M0-Adalogger"]
+	path = src/Feather-M0-Adalogger
+	url = ../../adafruit/Adafruit-Feather-M0-Adalogger-PCB.git
+[submodule "src/BMP085"]
+	path = src/BMP085
+	url = ../../adafruit/Adafruit-BMP085-PCB.git
+[submodule "src/Grand-Central"]
+	path = src/Grand-Central
+	url = ../../adafruit/Adafruit-Grand-Central-PCB.git
+[submodule "src/VL6180X-ToF-Distance-Sensor"]
+	path = src/VL6180X-ToF-Distance-Sensor
+	url = ../../adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB.git
+[submodule "src/1.8_Inch_TFT_Breakout"]
+	path = src/1.8_Inch_TFT_Breakout
+	url = ../../adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB.git
+[submodule "src/Audio-FX-Sound-Board"]
+	path = src/Audio-FX-Sound-Board
+	url = ../../adafruit/Adafruit-Audio-FX-Sound-Board-PCBs.git
+[submodule "src/Feather-32u4-Basic-Proto"]
+	path = src/Feather-32u4-Basic-Proto
+	url = ../../adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB.git
+[submodule "src/PyBadge"]
+	path = src/PyBadge
+	url = ../../adafruit/Adafruit-PyBadge-PCB.git
+[submodule "src/MAX6675-Breakout-Board"]
+	path = src/MAX6675-Breakout-Board
+	url = ../../adafruit/Adafruit-MAX6675-Breakout-Board-PCB.git
+[submodule "src/Si5351A-Clock-Generator-Breakout"]
+	path = src/Si5351A-Clock-Generator-Breakout
+	url = ../../adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB.git
+[submodule "src/OLED-FeatherWing"]
+	path = src/OLED-FeatherWing
+	url = ../../adafruit/Adafruit-OLED-FeatherWing-PCB.git
+[submodule "src/Standalone-Capacitive-Sensor"]
+	path = src/Standalone-Capacitive-Sensor
+	url = ../../adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB.git
+[submodule "src/FONA808-Shield"]
+	path = src/FONA808-Shield
+	url = ../../adafruit/Adafruit-FONA808-Shield-PCB.git
+[submodule "src/128x64-OLED-Bonnet-for-Raspberry-Pi"]
+	path = src/128x64-OLED-Bonnet-for-Raspberry-Pi
+	url = ../../adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB.git
+[submodule "src/LIS3DH-Breakout"]
+	path = src/LIS3DH-Breakout
+	url = ../../adafruit/Adafruit-LIS3DH-Breakout-PCB.git
+[submodule "src/TCS34725-Color-Sensor-Breakout"]
+	path = src/TCS34725-Color-Sensor-Breakout
+	url = ../../adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB.git
+[submodule "src/Metro-M0-Express"]
+	path = src/Metro-M0-Express
+	url = ../../adafruit/Adafruit-Metro-M0-Express-PCB.git
+[submodule "src/NeoPixel-FeatherWing"]
+	path = src/NeoPixel-FeatherWing
+	url = ../../adafruit/Adafruit-NeoPixel-FeatherWing-PCB.git
+[submodule "src/GPS-Logger-Shield"]
+	path = src/GPS-Logger-Shield
+	url = ../../adafruit/Adafruit-GPS-Logger-Shield-PCB.git
+[submodule "src/E-Paper-Display-Breakout"]
+	path = src/E-Paper-Display-Breakout
+	url = ../../adafruit/Adafruit-E-Paper-Display-Breakout-PCBs.git
+[submodule "src/GUVA-Analog-UV-Sensor-Breakout"]
+	path = src/GUVA-Analog-UV-Sensor-Breakout
+	url = ../../adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB.git
+[submodule "src/Adalogger-FeatherWing"]
+	path = src/Adalogger-FeatherWing
+	url = ../../adafruit/Adafruit-Adalogger-FeatherWing-PCB.git
+[submodule "src/2.8-TFT-Shield-v2"]
+	path = src/2.8-TFT-Shield-v2
+	url = ../../adafruit/Adafruit-2.8-TFT-Shield-v2-PCB.git
+[submodule "src/SPW2430"]
+	path = src/SPW2430
+	url = ../../adafruit/Adafruit-SPW2430-PCB.git
+[submodule "src/USB-DC-LiPoly-Charger"]
+	path = src/USB-DC-LiPoly-Charger
+	url = ../../adafruit/Adafruit-USB-DC-LiPoly-Charger.git
+[submodule "src/TIMESQUARE-DIY-Watch-Kit"]
+	path = src/TIMESQUARE-DIY-Watch-Kit
+	url = ../../adafruit/TIMESQUARE-DIY-Watch-Kit.git
+[submodule "src/TCA9548A-I2C-Multiplexer"]
+	path = src/TCA9548A-I2C-Multiplexer
+	url = ../../adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB.git
+[submodule "src/PiTFT-Plus-2.8"]
+	path = src/PiTFT-Plus-2.8
+	url = ../../adafruit/Adafruit-PiTFT-Plus-2.8-PCB.git
+[submodule "src/16x2-LCD-Pi-Plate"]
+	path = src/16x2-LCD-Pi-Plate
+	url = ../../adafruit/Adafruit-16x2-LCD-Pi-Plate.git
+[submodule "src/MPR121-Capacitive-Touch-Shield"]
+	path = src/MPR121-Capacitive-Touch-Shield
+	url = ../../adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB.git
+[submodule "src/STEMMA-Soil-Sensor"]
+	path = src/STEMMA-Soil-Sensor
+	url = ../../adafruit/Adafruit-STEMMA-Soil-Sensor-PCB.git
+[submodule "src/TLC59711-Breakout"]
+	path = src/TLC59711-Breakout
+	url = ../../adafruit/Adafruit-TLC59711-Breakout-PCB.git
+[submodule "src/parts"]
+	path = src/parts
+	url = ../../adafruit/pcb-parts.git
+[submodule "src/Circuit-Playground-Express"]
+	path = src/Circuit-Playground-Express
+	url = ../../adafruit/Adafruit-Circuit-Playground-Express-PCB.git
+[submodule "src/Verter"]
+	path = src/Verter
+	url = ../../adafruit/Adafruit-Verter-PCB.git
+[submodule "src/Feather-ICE40"]
+	path = src/Feather-ICE40
+	url = ../../adafruit/Feather-ICE40-PCB.git
+[submodule "src/Feather-RISC-V"]
+	path = src/Feather-RISC-V
+	url = ../../adafruit/Feather-RISC-V-PCB.git
+[submodule "src/Servo-HAT-Bonnet"]
+	path = src/Servo-HAT-Bonnet
+	url = ../../adafruit/Adafruit-Servo-HAT-Bonnet-PCB.git
+[submodule "src/Hallowing-M0"]
+	path = src/Hallowing-M0
+	url = ../../adafruit/Adafruit-Hallowing-M0-PCB.git
+[submodule "src/Push-Button-Power-Switch"]
+	path = src/Push-Button-Power-Switch
+	url = ../../adafruit/Adafruit-Push-Button-Power-Switch-PCB.git
+[submodule "src/3.5inch-TFT-Breakout"]
+	path = src/3.5inch-TFT-Breakout
+	url = ../../adafruit/3.5inch-TFT-Breakout-PCB.git
+[submodule "src/DS3231-Precision-RTC-FeatherWing"]
+	path = src/DS3231-Precision-RTC-FeatherWing
+	url = ../../adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB.git
+[submodule "src/PiOLED-128x32"]
+	path = src/PiOLED-128x32
+	url = ../../adafruit/Adafruit-PiOLED-128x32-PCB.git
+[submodule "src/16-channel-PWM-Servo-Shield"]
+	path = src/16-channel-PWM-Servo-Shield
+	url = ../../adafruit/Adafruit-16-channel-PWM-Servo-Shield.git
+[submodule "src/FRAM-Breakout"]
+	path = src/FRAM-Breakout
+	url = ../../adafruit/Adafruit-FRAM-Breakout-PCB.git
+[submodule "src/Gemma-M0"]
+	path = src/Gemma-M0
+	url = ../../adafruit/Adafruit-Gemma-M0-PCB.git
+[submodule "src/FXOS8700-FXAS21002-9-DoF-Breakout"]
+	path = src/FXOS8700-FXAS21002-9-DoF-Breakout
+	url = ../../adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB.git
+[submodule "src/Bluefruit-LE-Micro"]
+	path = src/Bluefruit-LE-Micro
+	url = ../../adafruit/Adafruit-Bluefruit-LE-Micro-PCB.git
+[submodule "src/AMG8833-Breakout"]
+	path = src/AMG8833-Breakout
+	url = ../../adafruit/Adafruit-AMG8833-Breakout-PCB.git
+[submodule "src/MAX31865"]
+	path = src/MAX31865
+	url = ../../adafruit/Adafruit-MAX31865-PCB.git
+[submodule "src/5-HDMI-Backpack"]
+	path = src/5-HDMI-Backpack
+	url = ../../adafruit/Adafruit-5-HDMI-Backpack-PCB.git
+[submodule "src/DRV2605"]
+	path = src/DRV2605
+	url = ../../adafruit/Adafruit-DRV2605-PCB.git
+[submodule "src/HMC5883-Mag-Compass-Sensor"]
+	path = src/HMC5883-Mag-Compass-Sensor
+	url = ../../adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB.git
+[submodule "src/Feather-M0-Bluefruit-LE"]
+	path = src/Feather-M0-Bluefruit-LE
+	url = ../../adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB.git
+[submodule "src/TSL2591-Breakout"]
+	path = src/TSL2591-Breakout
+	url = ../../adafruit/Adafruit-TSL2591-Breakout-PCB.git
+[submodule "src/MiCS-5524-Gas-Sensor-Breakout"]
+	path = src/MiCS-5524-Gas-Sensor-Breakout
+	url = ../../adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB.git
+[submodule "src/PyGamer"]
+	path = src/PyGamer
+	url = ../../adafruit/Adafruit-PyGamer-PCB.git
+[submodule "src/BME280-Breakout"]
+	path = src/BME280-Breakout
+	url = ../../adafruit/Adafruit-BME280-Breakout-PCB.git
+[submodule "src/FPC-SMT-Adapter"]
+	path = src/FPC-SMT-Adapter
+	url = ../../adafruit/Adafruit-FPC-SMT-Adapter-PCBs.git
+[submodule "src/LED-Sequin"]
+	path = src/LED-Sequin
+	url = ../../adafruit/Adafruit-LED-Sequin-PCB.git
+[submodule "src/MPR121"]
+	path = src/MPR121
+	url = ../../adafruit/Adafruit-MPR121-PCB.git
+[submodule "src/MAX98357-I2S-Amp-Breakout"]
+	path = src/MAX98357-I2S-Amp-Breakout
+	url = ../../adafruit/Adafruit-MAX98357-I2S-Amp-Breakout.git
+[submodule "src/Bluefruit-Classic"]
+	path = src/Bluefruit-Classic
+	url = ../../adafruit/Adafruit-Bluefruit-Classic-PCBs.git
+[submodule "src/Circuit-Playground"]
+	path = src/Circuit-Playground
+	url = ../../adafruit/Adafruit-Circuit-Playground-PCB.git
+[submodule "src/Si7021"]
+	path = src/Si7021
+	url = ../../adafruit/Adafruit-Si7021-PCB.git
+[submodule "src/DC-Stepper-Motor-FeatherWing"]
+	path = src/DC-Stepper-Motor-FeatherWing
+	url = ../../adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB.git
+[submodule "src/Bluefruit-LE-UART-Friend"]
+	path = src/Bluefruit-LE-UART-Friend
+	url = ../../adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB.git
+[submodule "src/ISP-SWD-and-JTAG-Breakout"]
+	path = src/ISP-SWD-and-JTAG-Breakout
+	url = ../../adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs.git
+[submodule "src/PiUART"]
+	path = src/PiUART
+	url = ../../adafruit/Adafruit-PiUART-PCB.git
+[submodule "src/ItsyBitsy-32u4"]
+	path = src/ItsyBitsy-32u4
+	url = ../../adafruit/Adafruit-ItsyBitsy-32u4-PCB.git
+[submodule "src/LM3671-Buck-Converter"]
+	path = src/LM3671-Buck-Converter
+	url = ../../adafruit/Adafruit-LM3671-Buck-Converter-PCB.git
+[submodule "src/7-HDMI-Backpack"]
+	path = src/7-HDMI-Backpack
+	url = ../../adafruit/Adafruit-7-HDMI-Backpack-PCB.git
+[submodule "src/PiTFT-3.5-Plus"]
+	path = src/PiTFT-3.5-Plus
+	url = ../../adafruit/Adafruit-PiTFT-3.5-Plus-PCB.git
+[submodule "src/PCF8523-RTC-Breakout"]
+	path = src/PCF8523-RTC-Breakout
+	url = ../../adafruit/Adafruit-PCF8523-RTC-Breakout-PCB.git
+[submodule "src/Capacitive-Touch-HAT"]
+	path = src/Capacitive-Touch-HAT
+	url = ../../adafruit/Adafruit-Capacitive-Touch-HAT-PCB.git
+[submodule "src/Bluefruit-LE-Shield"]
+	path = src/Bluefruit-LE-Shield
+	url = ../../adafruit/Adafruit-Bluefruit-LE-Shield-PCB.git
+[submodule "src/I2S-Microphone-Breakout"]
+	path = src/I2S-Microphone-Breakout
+	url = ../../adafruit/Adafruit-I2S-Microphone-Breakout-PCB.git
+[submodule "src/NeoTrellis-M4-PCB-and-Enclosure"]
+	path = src/NeoTrellis-M4-PCB-and-Enclosure
+	url = ../../adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure.git
+[submodule "src/Music-Maker-MP3-Shield"]
+	path = src/Music-Maker-MP3-Shield
+	url = ../../adafruit/Adafruit-Music-Maker-MP3-Shield-PCB.git
+[submodule "src/MPL3115A2"]
+	path = src/MPL3115A2
+	url = ../../adafruit/Adafruit-MPL3115A2-PCB.git
+[submodule "src/Gemma"]
+	path = src/Gemma
+	url = ../../adafruit/Adafruit-Gemma-PCB.git
+[submodule "src/7x15-CharliePlex-LED-FeatherWing"]
+	path = src/7x15-CharliePlex-LED-FeatherWing
+	url = ../../adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing.git
+[submodule "src/LED-Backpack-FeatherWing"]
+	path = src/LED-Backpack-FeatherWing
+	url = ../../adafruit/Adafruit-LED-Backpack-FeatherWing-PCB.git
+[submodule "src/MAX9814-AGC-Microphone"]
+	path = src/MAX9814-AGC-Microphone
+	url = ../../adafruit/Adafruit-MAX9814-AGC-Microphone-PCB.git
+[submodule "src/NeoPixel-Jewel-7"]
+	path = src/NeoPixel-Jewel-7
+	url = ../../adafruit/Adafruit-NeoPixel-Jewel-7.git
+[submodule "src/Qualia-Driver"]
+	path = src/Qualia-Driver
+	url = ../../adafruit/Adafruit-Qualia-Driver-PCB.git
+[submodule "src/MAX31856"]
+	path = src/MAX31856
+	url = ../../adafruit/Adafruit-MAX31856-PCB.git
+[submodule "src/LSM9DS0"]
+	path = src/LSM9DS0
+	url = ../../adafruit/Adafruit-LSM9DS0-PCB.git
+[submodule "src/Si4713"]
+	path = src/Si4713
+	url = ../../adafruit/Adafruit-Si4713-PCB.git
+[submodule "src/MLX90640"]
+	path = src/MLX90640
+	url = ../../adafruit/Adafruit-MLX90640-PCB.git
+[submodule "src/Flora-Bluefruit-LE"]
+	path = src/Flora-Bluefruit-LE
+	url = ../../adafruit/Adafruit-Flora-Bluefruit-LE-PCB.git
+[submodule "src/Music-Maker-FeatherWing"]
+	path = src/Music-Maker-FeatherWing
+	url = ../../adafruit/Adafruit-Music-Maker-FeatherWing-PCB.git
+[submodule "src/Particle-Spark-Neopixel-Ring"]
+	path = src/Particle-Spark-Neopixel-Ring
+	url = ../../adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB.git
+[submodule "src/Pixie-3W-Smart-LED"]
+	path = src/Pixie-3W-Smart-LED
+	url = ../../adafruit/Pixie-3W-Smart-LED-PCB.git
+[submodule "src/ALS-PT19-Sensor-Breakout"]
+	path = src/ALS-PT19-Sensor-Breakout
+	url = ../../adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB.git
+[submodule "src/TB6612-Motor-Driver-Breakout"]
+	path = src/TB6612-Motor-Driver-Breakout
+	url = ../../adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB.git
+[submodule "src/TXB0104-Level-Shifter-Breakout"]
+	path = src/TXB0104-Level-Shifter-Breakout
+	url = ../../adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB.git
+[submodule "src/Power-Relay-FeatherWing"]
+	path = src/Power-Relay-FeatherWing
+	url = ../../adafruit/Adafruit-Power-Relay-FeatherWing-PCB.git
+[submodule "src/PowerBoost-1000"]
+	path = src/PowerBoost-1000
+	url = ../../adafruit/Adafruit-PowerBoost-1000-PCB.git
+[submodule "src/Ethernet-FeatherWing"]
+	path = src/Ethernet-FeatherWing
+	url = ../../adafruit/Adafruit-Ethernet-FeatherWing-PCB.git
+[submodule "src/Ultimate-GPS-HAT"]
+	path = src/Ultimate-GPS-HAT
+	url = ../../adafruit/Adafruit-Ultimate-GPS-HAT-PCB.git
+[submodule "src/Bluefruit-EZ-Key"]
+	path = src/Bluefruit-EZ-Key
+	url = ../../adafruit/Adafruit-Bluefruit-EZ-Key-PCB.git
+[submodule "src/BMP280-Breakout"]
+	path = src/BMP280-Breakout
+	url = ../../adafruit/Adafruit-BMP280-Breakout-PCB.git
+[submodule "src/Radio-FeatherWing"]
+	path = src/Radio-FeatherWing
+	url = ../../adafruit/Adafruit-Radio-FeatherWing-PCB.git
+[submodule "src/PiTFT-2.8-inch-Display"]
+	path = src/PiTFT-2.8-inch-Display
+	url = ../../adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB.git
+[submodule "src/ESP32-HUZZAH-Breakout"]
+	path = src/ESP32-HUZZAH-Breakout
+	url = ../../adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB.git
+[submodule "src/USB-C-Downstream-Breakout"]
+	path = src/USB-C-Downstream-Breakout
+	url = ../../adafruit/Adafruit-USB-C-Downstream-Breakout.git
+[submodule "src/DotStar-2020-8x8-Matrix"]
+	path = src/DotStar-2020-8x8-Matrix
+	url = ../../adafruit/DotStar-2020-8x8-Matrix-PCB.git
+[submodule "src/1.44-TFT-Breakout"]
+	path = src/1.44-TFT-Breakout
+	url = ../../adafruit/Adafruit-1.44-TFT-Breakout-PCB.git
+[submodule "src/AS7262-Breakout"]
+	path = src/AS7262-Breakout
+	url = ../../adafruit/Adafruit-AS7262-Breakout-PCB.git
+[submodule "src/PWM-Servo-FeatherWing"]
+	path = src/PWM-Servo-FeatherWing
+	url = ../../adafruit/Adafruit-PWM-Servo-FeatherWing-PCB.git
+[submodule "src/USB-Serial-RGB-Character-Backpack"]
+	path = src/USB-Serial-RGB-Character-Backpack
+	url = ../../adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB.git
+[submodule "src/Mini-Analog-Thumbstick-Breakout"]
+	path = src/Mini-Analog-Thumbstick-Breakout
+	url = ../../adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB.git
+[submodule "src/Proto-Plate-for-Beagle-Bone"]
+	path = src/Proto-Plate-for-Beagle-Bone
+	url = ../../adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB.git
+[submodule "src/PiTFT-2.2-Inch-HAT"]
+	path = src/PiTFT-2.2-Inch-HAT
+	url = ../../adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB.git
+[submodule "src/TPL5110-Power-Timer-Breakout"]
+	path = src/TPL5110-Power-Timer-Breakout
+	url = ../../adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB.git
+[submodule "src/Radio-Bonnet"]
+	path = src/Radio-Bonnet
+	url = ../../adafruit/Adafruit-Radio-Bonnet-PCB.git
+[submodule "src/CAP1188"]
+	path = src/CAP1188
+	url = ../../adafruit/Adafruit-CAP1188-PCB.git
+[submodule "src/Arcade-Bonnet"]
+	path = src/Arcade-Bonnet
+	url = ../../adafruit/Adafruit-Arcade-Bonnet-PCB.git
+[submodule "src/Airlift-Shield"]
+	path = src/Airlift-Shield
+	url = ../../adafruit/Adafruit-Airlift-Shield-PCB.git
+[submodule "src/ATECC608"]
+	path = src/ATECC608
+	url = ../../adafruit/Adafruit-ATECC608-PCB.git
+[submodule "src/RGB-Matrix-HAT"]
+	path = src/RGB-Matrix-HAT
+	url = ../../adafruit/Adafruit-RGB-Matrix-HAT-PCB.git
+[submodule "src/FONA-800-Shield"]
+	path = src/FONA-800-Shield
+	url = ../../adafruit/Adafruit-FONA-800-Shield-PCB.git
+[submodule "src/Stereo-Speaker-Bonnet"]
+	path = src/Stereo-Speaker-Bonnet
+	url = ../../adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB.git
+[submodule "src/Perma-Proto-Pi"]
+	path = src/Perma-Proto-Pi
+	url = ../../adafruit/Adafruit-Perma-Proto-Pi-PCBs.git
+[submodule "src/Relay-FeatherWing"]
+	path = src/Relay-FeatherWing
+	url = ../../adafruit/Adafruit-Relay-FeatherWing-PCBs.git
+[submodule "src/CC3000_Shield"]
+	path = src/CC3000_Shield
+	url = ../../adafruit/Adafruit_CC3000_Shield_PCB.git
+[submodule "src/Terminal-Block-FeatherWing"]
+	path = src/Terminal-Block-FeatherWing
+	url = ../../adafruit/Adafruit-Terminal-Block-FeatherWing-PCB.git
+[submodule "src/MPL115A2-Breakout"]
+	path = src/MPL115A2-Breakout
+	url = ../../adafruit/Adafruit-MPL115A2-Breakout-PCB.git
+[submodule "src/ItsyBitsy-M4-Express"]
+	path = src/ItsyBitsy-M4-Express
+	url = ../../adafruit/Adafruit-ItsyBitsy-M4-Express-PCB.git
+[submodule "src/1.27inch-Color-OLED-Breakout"]
+	path = src/1.27inch-Color-OLED-Breakout
+	url = ../../adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB.git
+[submodule "src/Bluefruit-LE-USB-Friend-and-Sniffer"]
+	path = src/Bluefruit-LE-USB-Friend-and-Sniffer
+	url = ../../adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB.git
+[submodule "src/Flora-TCS34725-Color-Sensor"]
+	path = src/Flora-TCS34725-Color-Sensor
+	url = ../../adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB.git
+[submodule "src/SHT31-Sensor-Breakout"]
+	path = src/SHT31-Sensor-Breakout
+	url = ../../adafruit/Adafruit-SHT31-Sensor-Breakout-PCB.git
+[submodule "src/Feather-32u4-Adalogger"]
+	path = src/Feather-32u4-Adalogger
+	url = ../../adafruit/Adafruit-Feather-32u4-Adalogger-PCB.git
+[submodule "src/Ultimate-GPS-FeatherWing"]
+	path = src/Ultimate-GPS-FeatherWing
+	url = ../../adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB.git
+[submodule "src/3.5in-TFT-Featherwing"]
+	path = src/3.5in-TFT-Featherwing
+	url = ../../adafruit/Adafruit-3.5in-TFT-Featherwing-PCB.git
+[submodule "src/2.4-TFT-Breakout"]
+	path = src/2.4-TFT-Breakout
+	url = ../../adafruit/Adafruit-2.4-TFT-Breakout-PCB.git
+[submodule "src/2.4-TFT-FeatherWing"]
+	path = src/2.4-TFT-FeatherWing
+	url = ../../adafruit/Adafruit-2.4-TFT-FeatherWing-PCB.git
+[submodule "src/WICED-WiFi-Feather"]
+	path = src/WICED-WiFi-Feather
+	url = ../../adafruit/Adafruit-WICED-WiFi-Feather-PCB.git
+[submodule "src/PA1010D-Mini-GPS"]
+	path = src/PA1010D-Mini-GPS
+	url = ../../adafruit/Adafruit-PA1010D-Mini-GPS-PCB.git
+[submodule "src/PiTFT-Plus-3.2"]
+	path = src/PiTFT-Plus-3.2
+	url = ../../adafruit/Adafruit-PiTFT-Plus-3.2-PCB.git
+[submodule "src/Teensy-3.x-Feather-Adapter"]
+	path = src/Teensy-3.x-Feather-Adapter
+	url = ../../adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB.git
+[submodule "src/Flora-LSM9DS0-9DOF"]
+	path = src/Flora-LSM9DS0-9DOF
+	url = ../../adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB.git
+[submodule "src/MLX90393"]
+	path = src/MLX90393
+	url = ../../adafruit/Adafruit-MLX90393-PCB.git
+[submodule "src/VEML7700"]
+	path = src/VEML7700
+	url = ../../adafruit/Adafruit-VEML7700-PCB.git
+[submodule "src/I2S-Audio-Bonnet-for-Raspberry-Pi"]
+	path = src/I2S-Audio-Bonnet-for-Raspberry-Pi
+	url = ../../adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB.git
+[submodule "src/UDA1334A-I2S-Stereo-DAC"]
+	path = src/UDA1334A-I2S-Stereo-DAC
+	url = ../../adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB.git
+[submodule "src/PiTFT-2.4-Inch-HAT"]
+	path = src/PiTFT-2.4-Inch-HAT
+	url = ../../adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB.git
+[submodule "src/Low-profile-microSD-to-SD-Adapter"]
+	path = src/Low-profile-microSD-to-SD-Adapter
+	url = ../../adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB.git
+[submodule "src/ItsyBitsy-nRF52840-Express"]
+	path = src/ItsyBitsy-nRF52840-Express
+	url = ../../adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB.git
+[submodule "src/TPA2012-or-TS2012-Breakout"]
+	path = src/TPA2012-or-TS2012-Breakout
+	url = ../../adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB.git
+[submodule "src/Joy-Featherwing"]
+	path = src/Joy-Featherwing
+	url = ../../adafruit/Adafruit-Joy-Featherwing-PCB.git
+[submodule "src/MCP9600"]
+	path = src/MCP9600
+	url = ../../adafruit/Adafruit-MCP9600-PCB.git
+[submodule "src/APDS9960-Breakout"]
+	path = src/APDS9960-Breakout
+	url = ../../adafruit/Adafruit-APDS9960-Breakout-PCB.git
+[submodule "src/AirLift-Breakout"]
+	path = src/AirLift-Breakout
+	url = ../../adafruit/Adafruit-AirLift-Breakout-PCB.git
+[submodule "src/PyPortal"]
+	path = src/PyPortal
+	url = ../../adafruit/Adafruit-PyPortal-PCB.git
+[submodule "src/INA260"]
+	path = src/INA260
+	url = ../../adafruit/Adafruit-INA260-PCB.git
+[submodule "src/Cupcade-Adapter"]
+	path = src/Cupcade-Adapter
+	url = ../../adafruit/Adafruit-Cupcade-Adapter-PCB.git
+[submodule "src/PCT2075"]
+	path = src/PCT2075
+	url = ../../adafruit/Adafruit-PCT2075-PCB.git
+[submodule "src/AHT20"]
+	path = src/AHT20
+	url = ../../adafruit/Adafruit-AHT20-PCB.git
+[submodule "src/Crickit"]
+	path = src/Crickit
+	url = ../../adafruit/Adafruit_Crickit_PCBs.git
+[submodule "src/ICM20649"]
+	path = src/ICM20649
+	url = ../../adafruit/Adafruit-ICM20649-PCB.git
+[submodule "src/MCP4728"]
+	path = src/MCP4728
+	url = ../../adafruit/Adafruit-MCP4728-PCB.git
+[submodule "src/SGP30"]
+	path = src/SGP30
+	url = ../../adafruit/Adafruit-SGP30-PCB.git
+[submodule "src/cookiecutter"]
+	path = src/cookiecutter
+	url = ../../adafruit/cookiecutter-adafruit-pcb.git
+[submodule "src/SHTC3"]
+	path = src/SHTC3
+	url = ../../adafruit/Adafruit-SHTC3-PCB.git
+[submodule "src/VCNL4040"]
+	path = src/VCNL4040
+	url = ../../adafruit/Adafruit-VCNL4040-PCB.git
+[submodule "src/MCP2221"]
+	path = src/MCP2221
+	url = ../../adafruit/Adafruit-MCP2221-PCB.git
+[submodule "src/Bonsai-Buckaroo"]
+	path = src/Bonsai-Buckaroo
+	url = ../../adafruit/Adafruit-Bonsai-Buckaroo-PCB.git
+[submodule "src/MCP4725"]
+	path = src/MCP4725
+	url = ../../adafruit/Adafruit-MCP4725-PCB.git
+[submodule "src/TPS61023"]
+	path = src/TPS61023
+	url = ../../adafruit/Adafruit-TPS61023-PCB.git
+[submodule "src/ADT7410"]
+	path = src/ADT7410
+	url = ../../adafruit/Adafruit-ADT7410-PCB.git
+[submodule "src/DS2413"]
+	path = src/DS2413
+	url = ../../adafruit/Adafruit-DS2413-PCB.git
+[submodule "src/TFT-Gizmo"]
+	path = src/TFT-Gizmo
+	url = ../../adafruit/Adafruit-TFT-Gizmo-PCB.git
+[submodule "src/MPU6050"]
+	path = src/MPU6050
+	url = ../../adafruit/Adafruit-MPU6050-PCB.git
+[submodule "src/CLUE"]
+	path = src/CLUE
+	url = ../../adafruit/Adafruit-CLUE-PCB.git
+[submodule "src/DS1841"]
+	path = src/DS1841
+	url = ../../adafruit/Adafruit-DS1841-PCB.git
+[submodule "src/STEMMA-Speaker"]
+	path = src/STEMMA-Speaker
+	url = ../../adafruit/Adafruit-STEMMA-Speaker-PCB.git
+[submodule "src/DPS310"]
+	path = src/DPS310
+	url = ../../adafruit/Adafruit-DPS310-PCB.git
+[submodule "src/HTS221"]
+	path = src/HTS221
+	url = ../../adafruit/Adafruit-HTS221-PCB.git
+[submodule "src/PyRuler"]
+	path = src/PyRuler
+	url = ../../adafruit/Adafruit-PyRuler-PCB.git
+[submodule "src/Proto-Screwshield"]
+	path = src/Proto-Screwshield
+	url = ../../adafruit/Adafruit-Proto-Screwshield-PCB.git
+[submodule "src/DS3502"]
+	path = src/DS3502
+	url = ../../adafruit/Adafruit-DS3502-PCB.git
+[submodule "src/ADXL343"]
+	path = src/ADXL343
+	url = ../../adafruit/Adafruit_ADXL343_PCB.git
+[submodule "src/pIRKey"]
+	path = src/pIRKey
+	url = ../../adafruit/Adafruit-pIRKey-PCB.git
+[submodule "src/MSA301"]
+	path = src/MSA301
+	url = ../../adafruit/Adafruit-MSA301-PCB.git
+[submodule "src/BMP388"]
+	path = src/BMP388
+	url = ../../adafruit/Adafruit-BMP388-PCB.git
+[submodule "src/LIS331"]
+	path = src/LIS331
+	url = ../../adafruit/Adafruit-LIS331-PCB.git
+[submodule "src/VEML6070"]
+	path = src/VEML6070
+	url = ../../adafruit/Adafruit-VEML6070-PCB.git
+[submodule "src/LIS3MDL"]
+	path = src/LIS3MDL
+	url = ../../adafruit/Adafruit-LIS3MDL-PCB.git
+[submodule "src/RGB-Matrix-Shield"]
+	path = src/RGB-Matrix-Shield
+	url = ../../adafruit/Adafruit-RGB-Matrix-Shield-PCB.git
+[submodule "src/TLV493D"]
+	path = src/TLV493D
+	url = ../../adafruit/Adafruit-TLV493D-PCB.git
+[submodule "src/LPS2X"]
+	path = src/LPS2X
+	url = ../../adafruit/Adafruit-LPS2X-PCB.git
+[submodule "src/Circuit-Playground-Bluefruit"]
+	path = src/Circuit-Playground-Bluefruit
+	url = ../../adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB.git
+[submodule "src/RGB-Matrix-Bonnet"]
+	path = src/RGB-Matrix-Bonnet
+	url = ../../adafruit/Adafruit-RGB-Matrix-Bonnet-PCB.git
+[submodule "src/BMP183-Breakout"]
+	path = src/BMP183-Breakout
+	url = ../../adafruit/Adafruit-BMP183-Breakout-PCB.git
+[submodule "src/USB-Power-Gauge"]
+	path = src/USB-Power-Gauge
+	url = ../../adafruit/Adafruit-USB-Power-Gauge-PCB.git
+[submodule "src/MCP9808-Breakout"]
+	path = src/MCP9808-Breakout
+	url = ../../adafruit/Adafruit-MCP9808-Breakout-PCB.git
+[submodule "src/STMPE610-Breakout"]
+	path = src/STMPE610-Breakout
+	url = ../../adafruit/Adafruit-STMPE610-Breakout-PCB.git
+[submodule "src/Feather-328P"]
+	path = src/Feather-328P
+	url = ../../adafruit/Adafruit-Feather-328P-PCB.git
+[submodule "src/Hallowing-M4"]
+	path = src/Hallowing-M4
+	url = ../../adafruit/Adafruit-Hallowing-M4-PCB.git
+[submodule "src/WINC1500-Shield"]
+	path = src/WINC1500-Shield
+	url = ../../adafruit/Adafruit-WINC1500-Shield-PCB.git
+[submodule "src/LPS3X"]
+	path = src/LPS3X
+	url = ../../adafruit/Adafruit-LPS3X-PCB.git
+[submodule "src/NeoPXL8"]
+	path = src/NeoPXL8
+	url = ../../adafruit/Adafruit-NeoPXL8-PCBs.git
+[submodule "src/SAMD09-Breakout"]
+	path = src/SAMD09-Breakout
+	url = ../../adafruit/Adafruit-SAMD09-Breakout-PCB.git
+[submodule "src/HDC1008-Breakout"]
+	path = src/HDC1008-Breakout
+	url = ../../adafruit/Adafruit-HDC1008-Breakout-PCB.git
+[submodule "src/LIS2MDL"]
+	path = src/LIS2MDL
+	url = ../../adafruit/Adafruit-LIS2MDL-PCB.git
+[submodule "src/Flora-LSM303"]
+	path = src/Flora-LSM303
+	url = ../../adafruit/Adafruit-Flora-LSM303-PCB.git
+[submodule "src/MMA8451-Breakout"]
+	path = src/MMA8451-Breakout
+	url = ../../adafruit/Adafruit-MMA8451-Breakout-PCB.git
+[submodule "src/DRV8871-Breakout"]
+	path = src/DRV8871-Breakout
+	url = ../../adafruit/Adafruit-DRV8871-Breakout-PCB.git
+[submodule "src/LSM303AGR"]
+	path = src/LSM303AGR
+	url = ../../adafruit/Adafruit-LSM303AGR-PCB.git
+[submodule "src/LSM6DSOX"]
+	path = src/LSM6DSOX
+	url = ../../adafruit/Adafruit-LSM6DSOX-PCB.git
+[submodule "src/CCS811-Breakout"]
+	path = src/CCS811-Breakout
+	url = ../../adafruit/Adafruit-CCS811-Breakout-PCB.git
+[submodule "src/AP3602A"]
+	path = src/AP3602A
+	url = ../../adafruit/Adafruit-AP3602A-PCB.git
+[submodule "src/CharliePlex-Bonnet"]
+	path = src/CharliePlex-Bonnet
+	url = ../../adafruit/Adafruit-CharliePlex-Bonnet-PCBs.git
+[submodule "src/GPIO-Expander-Bonnet"]
+	path = src/GPIO-Expander-Bonnet
+	url = ../../adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs.git
+[submodule "src/L3GD20-Breakout"]
+	path = src/L3GD20-Breakout
+	url = ../../adafruit/Adafruit-L3GD20-Breakout-PCB.git
+[submodule "src/DotStar-FeatherWing"]
+	path = src/DotStar-FeatherWing
+	url = ../../adafruit/Adafruit-DotStar-FeatherWing-PCB.git
+[submodule "src/HTU21D-Breakout"]
+	path = src/HTU21D-Breakout
+	url = ../../adafruit/Adafruit-HTU21D-Breakout-PCB.git
+[submodule "src/LSM9DS1-Breakout"]
+	path = src/LSM9DS1-Breakout
+	url = ../../adafruit/Adafruit-LSM9DS1-Breakout-PCB.git
+[submodule "src/AirLift-FeatherWing"]
+	path = src/AirLift-FeatherWing
+	url = ../../adafruit/Adafruit-AirLift-FeatherWing-PCB.git
+[submodule "src/Si1145-Light-Sensor"]
+	path = src/Si1145-Light-Sensor
+	url = ../../adafruit/Adafruit-Si1145-Light-Sensor-PCB.git
+[submodule "src/Airlift-Bitsy-Add-On"]
+	path = src/Airlift-Bitsy-Add-On
+	url = ../../adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB.git
+[submodule "src/STEMMA-Non-Latching-Mini-Relay"]
+	path = src/STEMMA-Non-Latching-Mini-Relay
+	url = ../../adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB.git
+[submodule "src/Flora-Si1145-Light-Sensor"]
+	path = src/Flora-Si1145-Light-Sensor
+	url = ../../adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB.git
+[submodule "src/ATWINC1500-WiFi-Breakout"]
+	path = src/ATWINC1500-WiFi-Breakout
+	url = ../../adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB.git
+[submodule "src/AR1100-Resistive-Touch-Controller"]
+	path = src/AR1100-Resistive-Touch-Controller
+	url = ../../adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB.git
+[submodule "src/Feather-nRF52840-Sense"]
+	path = src/Feather-nRF52840-Sense
+	url = ../../adafruit/Adafruit-Feather-nRF52840-Sense-PCB.git
+[submodule "src/LSM6DS33"]
+	path = src/LSM6DS33
+	url = ../../adafruit/Adafruit-LSM6DS33-PCB.git
+[submodule "src/MPRLS-Pressure-Sensor-Breakout"]
+	path = src/MPRLS-Pressure-Sensor-Breakout
+	url = ../../adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB.git
+[submodule "src/VEML6075-UV-Sensor"]
+	path = src/VEML6075-UV-Sensor
+	url = ../../adafruit/Adafruit-VEML6075-UV-Sensor-PCB.git
+[submodule "src/Mini-TFT-with-Joystick-Featherwing"]
+	path = src/Mini-TFT-with-Joystick-Featherwing
+	url = ../../adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB.git
+[submodule "src/Bluefruit-EZ-Link-Shield"]
+	path = src/Bluefruit-EZ-Link-Shield
+	url = ../../adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB.git
+[submodule "src/MONSTER-M4SK"]
+	path = src/MONSTER-M4SK
+	url = ../../adafruit/Adafruit-MONSTER-M4SK-PCB.git
+[submodule "src/PowerBoost-500-Shield"]
+	path = src/PowerBoost-500-Shield
+	url = ../../adafruit/Adafruit-PowerBoost-500-Shield-PCB.git
+[submodule "src/DragonTail-for-micro-bit"]
+	path = src/DragonTail-for-micro-bit
+	url = ../../adafruit/Adafruit-DragonTail-for-micro-bit-PCB.git
+[submodule "src/TMP006-and-TMP007"]
+	path = src/TMP006-and-TMP007
+	url = ../../adafruit/Adafruit-TMP006-and-TMP007-PCB.git
+[submodule "src/TPL5111-Reset-Enable-Timer"]
+	path = src/TPL5111-Reset-Enable-Timer
+	url = ../../adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB.git
+[submodule "src/LM4040-Voltage-Reference"]
+	path = src/LM4040-Voltage-Reference
+	url = ../../adafruit/Adafruit-LM4040-Voltage-Reference-PCB.git
+[submodule "src/RGB-Matrix-FeatherWing"]
+	path = src/RGB-Matrix-FeatherWing
+	url = ../../adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB.git
+[submodule "src/ADXL343-ADT7410-Featherwing"]
+	path = src/ADXL343-ADT7410-Featherwing
+	url = ../../adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB.git
+[submodule "src/Flora-TSL2561-Lux-Sensor"]
+	path = src/Flora-TSL2561-Lux-Sensor
+	url = ../../adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB.git
+[submodule "src/MAX98306-Class-D-Amp"]
+	path = src/MAX98306-Class-D-Amp
+	url = ../../adafruit/Adafruit-MAX98306-Class-D-Amp-PCB.git
+[submodule "src/Prop-Maker-FeatherWing"]
+	path = src/Prop-Maker-FeatherWing
+	url = ../../adafruit/Adafruit-Prop-Maker-FeatherWing-PCB.git
+[submodule "src/MAX31850-thermocouple-breakout-board"]
+	path = src/MAX31850-thermocouple-breakout-board
+	url = ../../adafruit/Adafruit-MAX31850-thermocouple-breakout-board.git
+[submodule "src/GA1A1S202WP-Breakout"]
+	path = src/GA1A1S202WP-Breakout
+	url = ../../adafruit/Adafruit-GA1A1S202WP-Breakout-PCB.git
+[submodule "src/1.54-inch-240x240-TFT"]
+	path = src/1.54-inch-240x240-TFT
+	url = ../../adafruit/Adafruit-1.54-inch-240x240-TFT-PCB.git
+[submodule "src/PiRTC-RTC-for-Raspberry-Pi"]
+	path = src/PiRTC-RTC-for-Raspberry-Pi
+	url = ../../adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB.git
+[submodule "src/Metro-M4-Express-AirLift"]
+	path = src/Metro-M4-Express-AirLift
+	url = ../../adafruit/Adafruit-Metro-M4-Express-AirLift-PCB.git
+[submodule "src/1.14-inch-240x135-TFT"]
+	path = src/1.14-inch-240x135-TFT
+	url = ../../adafruit/Adafruit-1.14-inch-240x135-TFT-PCB.git
+[submodule "src/Feather-STM32F405-Express"]
+	path = src/Feather-STM32F405-Express
+	url = ../../adafruit/Adafruit-Feather-STM32F405-Express-PCB.git
+[submodule "src/1.3in-Color-TFT-Bonnet"]
+	path = src/1.3in-Color-TFT-Bonnet
+	url = ../../adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB.git
+[submodule "src/1.3-inch-240x240-TFT"]
+	path = src/1.3-inch-240x240-TFT
+	url = ../../adafruit/Adafruit-1.3-inch-240x240-TFT-PCB.git
+[submodule "src/2.0-inch-240x320-TFT"]
+	path = src/2.0-inch-240x320-TFT
+	url = ../../adafruit/Adafruit-2.0-inch-240x320-TFT-PCB.git
+[submodule "src/2.23-inch-Monochrome-OLED-Bonnet"]
+	path = src/2.23-inch-Monochrome-OLED-Bonnet
+	url = ../../adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB.git
+[submodule "src/0.96-160x80-TFT-Display-Breakout"]
+	path = src/0.96-160x80-TFT-Display-Breakout
+	url = ../../adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB.git
+[submodule "src/Flora-Sewable-3-Pin-JST-Wiring-Adapter"]
+	path = src/Flora-Sewable-3-Pin-JST-Wiring-Adapter
+	url = ../../adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB.git
+[submodule "src/Mini-PiTFT-240x135-TFT"]
+	path = src/Mini-PiTFT-240x135-TFT
+	url = ../../adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB.git
+[submodule "src/Circuit-Playground-Tri-Color-E-Ink-Gizmo"]
+	path = src/Circuit-Playground-Tri-Color-E-Ink-Gizmo
+	url = ../../adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB.git
+[submodule "src/LSM6DSOX-LIS3MDL"]
+	path = src/LSM6DSOX-LIS3MDL
+	url = ../../adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB.git
+[submodule "src/LSM6DS33-LIS3MDL"]
+	path = src/LSM6DS33-LIS3MDL
+	url = ../../adafruit/Adafruit-LSM6DS33-LIS3MDL-PCB.git
+[submodule "src/ISM330DHCX-LIS3MDL-FeatherWing"]
+	path = src/ISM330DHCX-LIS3MDL-FeatherWing
+	url = ../../adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB.git
+[submodule "src/50pin-to-40pin-TFT-with-AR1100-Adapter"]
+	path = src/50pin-to-40pin-TFT-with-AR1100-Adapter
+	url = ../../adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB.git
